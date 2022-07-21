@@ -1,0 +1,2 @@
+# licensor
+license detecting tool
